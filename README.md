@@ -15,8 +15,6 @@
 
 </div><br/>
 
-
-### Melhores Projetos:
-- 
+Uma entusiasta da área de T.I
 
 
