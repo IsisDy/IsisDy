@@ -25,3 +25,4 @@
 ## Github Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=isisdyana&show_icons=true&theme=omni&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isisdyana&show_icons=true&theme=omni&count_private=true)
