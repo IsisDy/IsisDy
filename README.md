@@ -1,11 +1,15 @@
-
+<div align="center">
 
 
 
 
 ![banner](https://user-images.githubusercontent.com/101678134/163732688-5f75bbe7-4a38-4c8f-93ce-5b377092025b.png)
 
-
+<h3 align="center">
+<a href="https://cbp.io">Visit my portfolio
+<img src="https://github.com/fnky/fnky/raw/fnky/img/website.gif" alt="Visit my portfolio" align="center">
+</a>
+</h3>
 
 ![viems](https://komarev.com/ghpvc/?username=IsisDy&style=for-the-badge)
 
@@ -26,6 +30,6 @@
 
 ## Github Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=isisdyana&show_icons=true&theme=omni&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isisdyana&show_icons=true&theme=omni&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Isisdyana&show_icons=true&theme=omni&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=isisdyana&show_icons=true&theme=react&count_private=true)
+
+  </div>
