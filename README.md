@@ -1,12 +1,14 @@
 <div align="center">
-
-
+<img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" align="center">
+<div align="center">
+<img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Bem-Vindos" align="center">
+</div>
 
 
 ![banner](https://user-images.githubusercontent.com/101678134/163732688-5f75bbe7-4a38-4c8f-93ce-5b377092025b.png)
 
 <h3 align="center">
-<a href="https://github.com/IsisDy">Visit my portfolio
+<a href="https://github.com/IsisDy">Visite meu portfolio
 <img src="https://github.com/fnky/fnky/raw/fnky/img/website.gif" alt="Visit my portfolio" align="center">
 </a>
 </h3>
@@ -28,7 +30,7 @@
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 </div><br/>
 
-## Github Stats
+## Github Status
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=isisdyana&show_icons=true&theme=react&count_private=true)
   
@@ -38,4 +40,5 @@
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
+
   </div>
