@@ -28,11 +28,11 @@
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-</div><br/>
+
 
 ## Github Status
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=isisdyana&show_icons=true&theme=react&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=isisdyana&show_icons=true&theme=graywhite&count_private=true)
   
  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
 <!-- "margin-right: whatever;" -->
