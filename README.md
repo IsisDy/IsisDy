@@ -7,12 +7,13 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=IsisDy&style=for-the-badge)
+![viems](https://komarev.com/ghpvc/?username=IsisDy&style=for-the-badge)
+
 
 ## Contato & Redes Sociais
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/is_skyy98/)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isis-dyana-s-sousa-7b2881209)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whit)](isisdyana@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](isisdyana@gmail.com)
 
 ## Meus Conhecimentos
 
