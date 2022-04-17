@@ -3,10 +3,11 @@
 
 
 
+![banner](https://user-images.githubusercontent.com/101678134/163732688-5f75bbe7-4a38-4c8f-93ce-5b377092025b.png)
 
 
 
-
+![](https://komarev.com/ghpvc/?username=IsisDy&style=for-the-badge)
 
 ## Contato
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/is_skyy98/)
@@ -26,3 +27,4 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=isisdyana&show_icons=true&theme=omni&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isisdyana&show_icons=true&theme=omni&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Isisdyana&show_icons=true&theme=omni&count_private=true)
