@@ -6,7 +6,7 @@
 ![banner](https://user-images.githubusercontent.com/101678134/163732688-5f75bbe7-4a38-4c8f-93ce-5b377092025b.png)
 
 <h3 align="center">
-<a href="https://cbp.io">Visit my portfolio
+<a href="https://github.com/IsisDy">Visit my portfolio
 <img src="https://github.com/fnky/fnky/raw/fnky/img/website.gif" alt="Visit my portfolio" align="center">
 </a>
 </h3>
@@ -31,5 +31,11 @@
 ## Github Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=isisdyana&show_icons=true&theme=react&count_private=true)
-
+  
+ <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
+<!-- "margin-right: whatever;" -->
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
   </div>
