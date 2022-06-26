@@ -5,7 +5,7 @@
 </div>
 
 
-[gif!](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+![gif](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
 <h3 align="center">
 <a href="https://github.com/IsisDy">Visite meu portfolio
